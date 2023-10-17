@@ -137,5 +137,6 @@ SELECT designation, COUNT(*) AS "Number of Employees" FROM manager GROUP BY desi
 
 ### OUTPUT:
 ![ex1(14)](https://github.com/vidhyasrikachapalayam/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/119477817/93bcc881-061e-44c7-8449-f0b76af9bc53)
-
+### RESULT:
+Thus the dmal command was executed successfully.
 
